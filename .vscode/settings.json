@@ -51,7 +51,7 @@
     },
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
-  "liveServer.settings.port": 5500,
+  "liveServer.settings.port": 5501,
   "files.associations": {
     "*.js": "javascript"
   },
